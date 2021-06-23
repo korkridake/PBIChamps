@@ -24,6 +24,13 @@ Designed for Power BI Champs in your organization, this repository includes all 
 
 * [pbi_demo_repo/03_DeployH2O_PBI at master · WipadaChan/pbi_demo_repo](https://github.com/WipadaChan/pbi_demo_repo/tree/master/03_DeployH2O_PBI)
 
+## Support
+
+If you are experiencing technical issues and cannot find the answer in existing documentation, reach out to these contacts for help.
+
+1. [Support | Microsoft Power BI](https://powerbi.microsoft.com/en-us/support/). If you are an administrator of your Power BI tenant, you can also open a support ticket in the admin portal.
+2. Azure portal - You can submit support request for any Azure services through the Azure portal. Click help+support on the left of the portal page to submit your request.
+
 ## Additional Resources
 
 * [Data Visualization | Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
