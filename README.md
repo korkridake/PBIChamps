@@ -1,5 +1,7 @@
 # Power BI Champs Repository
 
+![Power Platform Offerings](/IMG/4Power.png)
+
 Designed for Power BI Champs in your organization, this repository includes all the presentations that you require to run through the Power BI Adoption workshops. This is a one-stop service in empowering your team members to discover insights hidden in your data with Microsoft Power BI. It's time for the BI Champs to create a data-driven culture with business intelligence for all and enable everyone at every level of your organization to make confident decisions using up-to-the-minute analytics!
 
 ## Why Power BI?
