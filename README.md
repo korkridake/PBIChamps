@@ -14,6 +14,8 @@ Designed for Power BI Champs in your organization, this repository includes all 
 
 ## Power BI Release Plan + Roadmap
 
+Here you have a report that combines all Release Plans into a comprehensive view. Below it, you have shortcuts to the source listings. Because these features that may not have released yet, delivery timelines may change and projected functionality may not be released. 
+
 * [Power BI Release Plan - Microsoft Power BI Community](https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Release-Plan/m-p/930557)
 
 ## Customer + Partner Reference
@@ -32,6 +34,14 @@ If you are experiencing technical issues and cannot find the answer in existing 
 
 1. [Support | Microsoft Power BI](https://powerbi.microsoft.com/en-us/support/). If you are an administrator of your Power BI tenant, you can also open a support ticket in the admin portal.
 2. Azure portal - You can submit support request for any Azure services through the Azure portal. Click help+support on the left of the portal page to submit your request.
+3. Microsoft Power BI team encourage customers, partners, and users to send suggestions to improve the product, and we'll act on it!  This report shows the current ideas at the  http://ideas.powerbi.com site.
+
+## Workshop
+
+* [Dashboard in a Day](https://powerbi.microsoft.com/en-us/diad/)
+* [Power BI Paginated Reports in a Day course - Power BI | Microsoft Docs](https://docs.microsoft.com/en-us/power-bi/learning-catalog/paginated-reports-online-course)
+* [Admin in a Day Instructor Led Training content is ... - Microsoft Power BI Community](https://community.powerbi.com/t5/Instructor-Led-Training/Admin-in-a-Day-Instructor-Led-Training-content-is-published/td-p/921604)
+* [Power BI for Developers: 1-Day Workshop – Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/consulting-services/csgpro.dev-in-a-day?product=power-bi)
 
 ## Additional Resources
 
