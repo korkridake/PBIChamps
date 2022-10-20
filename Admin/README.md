@@ -8,6 +8,10 @@
 4. Select "Dynamics 365 Customer Engagement": This demo environment includes Dynamics 365 Sales, Customer Service, Customer Service Insights, Field Service, PSA, Forms Pro, Power Apps, Power Automate and Office 365 E5 (incl. Power BI Pro).
 5. Check out the credentials. Open the InPrivate window to login. 
 
+## Additional Resources
+
+* [What is a Tenant? | Microsoft Power BI Blog | Microsoft Power BI](https://powerbi.microsoft.com/en-za/blog/what-is-a-tenant/#:~:text=The%20Tenant%20is%20the%20container,different%20DNS%20entries%20by%20default.)
+
 ## Service Principal supported Admin APIs
 
 You can refer customers to Enable service principal authentication for read-only admin APIs - Power BI | Microsoft Docs, where we added a few more APIs to be supported, for GA.
